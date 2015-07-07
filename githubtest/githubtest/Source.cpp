@@ -32,7 +32,12 @@ int main()
 	}
 	else if (a == 4)
 	{
-
+		for (int i = 1; i <= 5; i++)
+		{
+			for (int j = 0; j < i; j++)
+				cout << "*";
+			cout << endl;
+		}
 	}
 	else if (a == 5)
 	{
