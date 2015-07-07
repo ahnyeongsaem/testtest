@@ -78,7 +78,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="errhandle.c" />
+    <ClCompile Include="ertretertertertreter.cpp" />
+    <ClCompile Include="libsockcl.c" />
+    <ClCompile Include="main.c" />
     <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bytetype.h" />
+    <ClInclude Include="errhandle.h" />
+    <ClInclude Include="libsockcl.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
