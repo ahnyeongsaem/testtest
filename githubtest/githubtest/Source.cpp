@@ -28,7 +28,7 @@ int main()
 	}
 	else if (a == 3)
 	{
-
+		//ㅋㅋ
 	}
 	else if (a == 4)
 	{
