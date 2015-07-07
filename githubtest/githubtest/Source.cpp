@@ -141,7 +141,7 @@ int main()
 	}
 	else if (a == 11)
 	{
-		cout << "빼애애애애애애애ㅐㅇㄱ" << endl;
+		cout << "빼애애애애애애애ㅐㅇㄱ!!" << endl;
 	}
 
 
