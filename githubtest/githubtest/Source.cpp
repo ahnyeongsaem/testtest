@@ -5,6 +5,8 @@
 #include<sstream>
 #include<deque>
 #include<iomanip>
+#include<cmath>
+
 using namespace std;
 
 
