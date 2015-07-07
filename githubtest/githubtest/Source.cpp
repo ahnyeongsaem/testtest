@@ -3,6 +3,6 @@
 
 int main()
 {
-	printf("asdfasdfasd");
+	print///////////////////////////f("asdfasdfasd");
 	return 0;
 }
