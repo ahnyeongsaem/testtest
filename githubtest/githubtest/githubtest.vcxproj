@@ -78,18 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\Desktop\Devel\Projects\libsockcl\libsockcl\libsockcl.vcxproj.filters" />
-    <None Include="libsockcl.vcxproj.filters" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="errhandle.c" />
-    <ClCompile Include="libsockcl.c" />
-    <ClCompile Include="main.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="bytetype.h" />
-    <ClInclude Include="errhandle.h" />
-    <ClInclude Include="libsockcl.h" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

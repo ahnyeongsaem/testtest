@@ -15,33 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\Desktop\Devel\Projects\libsockcl\libsockcl\libsockcl.vcxproj.filters">
-      <Filter>Source Files</Filter>
-    </None>
-    <None Include="libsockcl.vcxproj.filters">
-      <Filter>Source Files</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="main.c">
+    <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="errhandle.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="libsockcl.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="bytetype.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="libsockcl.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="errhandle.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
